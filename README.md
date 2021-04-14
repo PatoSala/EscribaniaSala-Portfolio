@@ -1,6 +1,5 @@
 # EscribaniaSala-Portfolio
-Escribania Sala static presentation web page.
-All done using ReactJs.
+Escribania Sala's Web Page dpne with ReactJs.
 
 ## Link to website
 https://patosala.github.io/EscribaniaSala-Portfolio/
