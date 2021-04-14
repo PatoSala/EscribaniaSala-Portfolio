@@ -6,4 +6,12 @@
 
 .contact-info h2 {
     font-size: 39px;
+    margin: 5px 0px;
+}
+
+.contact {
+    width: 500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }

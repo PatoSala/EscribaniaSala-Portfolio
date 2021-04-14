@@ -12,6 +12,7 @@ function ContactInfo() {
             <section className="contact-info" data-aos="fade-up">
                 <h2>Contacto</h2>
                 <hr/>
+                <div className="contact"></div>
             </section>
         </>
     );

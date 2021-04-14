@@ -20,6 +20,7 @@ function Specialties() {
                     <li>Asesoramiento y redacción de Documentos</li>
                     <li>Habilitaciones Comerciales</li>
                     <li>Actas de Comprobación</li>
+                    <li>Asesoramiento integral en la compra de campos</li>
                     <li>Poderes y cuantos instrumentos sean conducentes a lograr el desarrollo normal y dentro de la mayor seguridad jurídica de las actividades de los requirentes. </li>
                 </ul>
             </section>

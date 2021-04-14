@@ -7,20 +7,8 @@
     position: fixed;
     bottom: 0;
     left: 20px;
-    /* margin: 10px 20px; */
+    margin-bottom: 20px;
 }
-
-/* .contact-bubble {
-    width: 55px;
-    height: 55px;
-    background: turquoise;
-    border-radius: 100%;
-}
-
-.contact-bubble:hover {
-    width: 58px;
-    height: 58px;
-} */
 
 .contact-bubble {
     padding: 10px;
